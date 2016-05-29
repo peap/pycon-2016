@@ -1,4 +1,6 @@
 Intro to Docker
 ===============
 
-http://container.training
+* Jérôme Petazzoni
+* http://container.training
+* http://view.dckr.info:9090
