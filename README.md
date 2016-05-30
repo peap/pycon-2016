@@ -17,7 +17,8 @@ Monday, May 30th, 2016
   building better tools for ourselves
 * `08_pythons_in_a_container`: Pythons in A Container - Lessons Learned
   Dockerizing Python Micro-Services
-* `09_...`: ...
+* `09_realtime_django`: Reinventing Django for the Real-Time Web
+* `10_...`: ...
 
 Tuesday, May 31st, 2016
 ----------------------
