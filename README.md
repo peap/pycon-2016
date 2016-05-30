@@ -13,7 +13,9 @@ Monday, May 30th, 2016
 * `04_refactoring`: Refactoring Python: Why and how to restructure your code
 * `05_code_unto_others`: Code Unto Others
 * `06_usable_ops`: Usable Ops: How to make web infrastructure management easier
-* `07_...`: ...
+* `07_building_better_tools.`: The cobbler's children have no shoes, or
+  building better tools for ourselves
+* `08_...`: ...
 
 Tuesday, May 31st, 2016
 ----------------------
