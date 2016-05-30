@@ -15,7 +15,9 @@ Monday, May 30th, 2016
 * `06_usable_ops`: Usable Ops: How to make web infrastructure management easier
 * `07_building_better_tools.`: The cobbler's children have no shoes, or
   building better tools for ourselves
-* `08_...`: ...
+* `08_pythons_in_a_container`: Pythons in A Container - Lessons Learned
+  Dockerizing Python Micro-Services
+* `09_...`: ...
 
 Tuesday, May 31st, 2016
 ----------------------
