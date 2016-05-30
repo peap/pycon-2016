@@ -12,7 +12,8 @@ Monday, May 30th, 2016
 * `03_coroutines`: Thinking in Coroutines
 * `04_refactoring`: Refactoring Python: Why and how to restructure your code
 * `05_code_unto_others`: Code Unto Others
-* `06_...`: ...
+* `06_usable_ops`: Usable Ops: How to make web infrastructure management easier
+* `07_...`: ...
 
 Tuesday, May 31st, 2016
 ----------------------
