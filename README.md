@@ -9,7 +9,7 @@ Sunday, May 29th, 2016
 
 Monday, May 30th, 2016
 ----------------------
-* ...
+* `03_coroutines`: Thinking in Coroutines
 
 Tuesday, May 31st, 2016
 ----------------------
