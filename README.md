@@ -22,7 +22,9 @@ Monday, May 30th, 2016
 
 Tuesday, May 31st, 2016
 ----------------------
-* ...
+* `11_doc_driven_dev`: Documentation-driven development - lessons from the
+  Django Project
+* `12_...`: ...
 
 Wednesday, June 1st, 2016
 ----------------------
