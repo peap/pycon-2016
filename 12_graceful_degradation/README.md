@@ -5,14 +5,24 @@ Remote Calls != Local Calls: Graceful Degradation when Services Fail
 * Dan Riti
 * @danriti
 
+Timeouts
+--------
+Monitor your site to get a feel for what timeout length is appropriate.
+
 Circuit Breaker pattern
 -----------------------
+Your connection to a service can be in three states:
+* closed: connections happening normally
+* open: no connections allowed
+* half-open: a periodic test request is sent to see if an open circuit should be closed
 
-`pybreaker`: https://pypi.python.org/pypi/pybreaker
+A Python implementation of the circuit breaker pattern: `pybreaker`
+* https://pypi.python.org/pypi/pybreaker
+* https://github.com/danielfm/pybreaker
 
-Timeouts + Circuit Breaker pattern
+Timeouts + Circuit Breaker pattern - good partners
 
-hystrix (netflix, Java) has a nice dashboard for their circuit breakers
+Hystrix (Netflix, Java) has a nice dashboard for their circuit breakers.
 
 Retries
 -------
