@@ -24,7 +24,8 @@ Tuesday, May 31st, 2016
 ----------------------
 * `11_doc_driven_dev`: Documentation-driven development - lessons from the
   Django Project
-* `12_...`: ...
+* `12_graceful_degradation`: Remote Calls != Local Calls: Graceful Degradation
+  when Services Fail
 
 Wednesday, June 1st, 2016
 ----------------------
