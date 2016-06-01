@@ -32,3 +32,4 @@ Wednesday, June 1st, 2016
 ----------------------
 * `14_blogging`: Write an Excellent Programming Blog
 * `15_artisanal_bots`: Small Batch Artisanal Bots: Let's Make Friends
+* `16_GILectomy`: Removing Python's GIL: The Gilectomy
