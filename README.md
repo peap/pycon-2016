@@ -31,3 +31,4 @@ Tuesday, May 31st, 2016
 Wednesday, June 1st, 2016
 ----------------------
 * `14_blogging`: Write an Excellent Programming Blog
+* `15_artisanal_bots`: Small Batch Artisanal Bots: Let's Make Friends
