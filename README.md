@@ -26,6 +26,7 @@ Tuesday, May 31st, 2016
   Django Project
 * `12_graceful_degradation`: Remote Calls != Local Calls: Graceful Degradation
   when Services Fail
+* `13_web_design`: Web Design for Non-Designers
 
 Wednesday, June 1st, 2016
 ----------------------
